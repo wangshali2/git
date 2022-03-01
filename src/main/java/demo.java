@@ -11,5 +11,7 @@ public class demo {
 
         System.out.println("master");
 
+        System.out.println("wsl分支222222222222");
+
     }
 }
